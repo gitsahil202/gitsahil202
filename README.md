@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitsahil202
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning ml
+- 🌱 I’m currently learning ds
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me mailsahil202@gmail.com
 
